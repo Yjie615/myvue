@@ -5,6 +5,7 @@
 </template>
 
 <script>
+require ('./iconfont/iconfont.css')
 export default {
   name: 'app'
 }

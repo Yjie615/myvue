@@ -1,6 +1,6 @@
 <template>
  	<div class="mp-header">
- 		<a class="mp-header-left"><</a>
+ 		<a class="mp-header-left iconfont icon-fanhui"></a>
  		<div class="mp-header-title">
  			<a>
  				<i class=""></i>
